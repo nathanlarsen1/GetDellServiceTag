@@ -16,8 +16,8 @@ The project consists of an AutoIt script that retrieves the Dell service tag and
 <h2>Program notifications</h2>
 
 <p align="center">
-Completed Rebuild: <br/>
-<img src="https://i.imgur.com/xsfMD1q.png" height="80%" width="80%" alt="Completed Rebuild"/>
+Dell service tag and code: <br/>
+<img src="https://i.imgur.com/xsfMD1q.png" height="80%" width="80%" alt="Dell service tag and code"/>
 <br />
 <br />
 </p>
