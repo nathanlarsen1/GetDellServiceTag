@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The project consists of an AutoIt script that retrieves the Dell service tag and express service code.<br/>
+The project consists of an AutoIt script that retrieves the Dell Service Tag and Express Service Code.<br/>
 
 <h2>Languages and Hardware</h2>
 
@@ -16,8 +16,8 @@ The project consists of an AutoIt script that retrieves the Dell service tag and
 <h2>Program notifications</h2>
 
 <p align="center">
-Dell service tag and code: <br/>
-<img src="https://i.imgur.com/xsfMD1q.png" height="80%" width="80%" alt="Dell service tag and code"/>
+Dell Service Tag and Code: <br/>
+<img src="https://i.imgur.com/xsfMD1q.png" height="80%" width="80%" alt="Dell Service Tag and Code"/>
 <br />
 <br />
 </p>
