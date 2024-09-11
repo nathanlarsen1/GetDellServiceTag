@@ -16,8 +16,8 @@ The project consists of an AutoIt script that retrieves the Dell Service Tag and
 <h2>Program notifications</h2>
 
 <p align="center">
-Dell Service Tag and Code: <br/>
-<img src="https://i.imgur.com/xsfMD1q.png" height="80%" width="80%" alt="Dell Service Tag and Code"/>
+Dell Service Tag and Express Service Code: <br/>
+<img src="https://i.imgur.com/xsfMD1q.png" height="80%" width="80%" alt="Dell Service Tag and Express Service Code"/>
 <br />
 <br />
 </p>
