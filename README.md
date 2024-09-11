@@ -7,7 +7,7 @@ The project consists of an AutoIt script that retrieves the Dell Service Tag and
 <h2>Languages and Hardware</h2>
 
 - <b>AutoIt</b>
-- <b>Dell workstations and servers</b>
+- <b>Dell Workstations and Servers</b>
 
 <h2>Environments Used </h2>
 
