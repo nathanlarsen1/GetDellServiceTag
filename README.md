@@ -4,9 +4,10 @@
 <h2>Description</h2>
 The project consists of an AutoIt script that retrieves the Dell service tag and express service code.<br/>
 
-<h2>Languages and Applications</h2>
+<h2>Languages and Hardware</h2>
 
 - <b>AutoIt</b>
+- <b>Dell workstations and servers</b>
 
 <h2>Environments Used </h2>
 
