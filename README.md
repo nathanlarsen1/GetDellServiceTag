@@ -13,7 +13,7 @@ The project consists of an AutoIt script that retrieves the Dell service tag and
 
 - <b>Windows 10 and 11</b>
 
-<h2>Program notifications:</h2>
+<h2>Program notifications</h2>
 
 <p align="center">
 Completed Rebuild: <br/>
