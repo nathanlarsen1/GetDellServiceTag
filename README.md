@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-The project consists of an AutoIt script that retrieves the Dell Service Tag and Express Service Code.<br/>
+This project consists of an AutoIt script that retrieves the Dell Service Tag and Express Service Code.<br/>
 
 <h2>Languages and Hardware</h2>
 
